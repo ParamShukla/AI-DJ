@@ -1,0 +1,62 @@
+.h{
+    margin:0px;
+    width:100%;
+    font-size: 30px;
+    white-space: inherit;
+
+}
+
+body{
+    background-size: cover;
+}
+
+#side {
+    font-size: 20px;
+    color:black;
+}
+
+.s {
+    float: left;
+    font-size:100px;
+}
+
+.speediskey{
+    border-radius: 100px;
+    width:200px;
+    margin-left:50px;
+    margin-top:50px;
+    
+
+}
+
+.v {
+    float:right;
+    font-size:50px;
+}
+
+.sp{
+    border-radius: 100px;
+    width:200px;
+    margin-right:50px;
+    margin-top:50px;
+    
+
+}
+
+.o {
+    font-size:20px ;
+}
+
+.but {
+    font-size: 25px;
+    font-weight: bold;
+    margin-top: 12px;
+}
+
+canvas {
+    
+    border: 5px solid rebeccapurple ;
+    border-radius: 20px;
+    
+
+}
